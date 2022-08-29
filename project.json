@@ -133,6 +133,12 @@
         "testCaseId": "9b713ef5-ad02-406e-ba1f-d4adf8e67c4b",
         "testCaseType": "TestCase",
         "fileName": "Tests\\ServiceLayer\\TestCase_WriteTableToExcel.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "3338e2d5-dc29-4145-8314-91967202e543",
+        "testCaseType": "TestCase",
+        "fileName": "Tests\\ServiceLayer\\TestCase_DeleteExcelFile.xaml"
       }
     ],
     "modernBehavior": true
